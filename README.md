@@ -12,6 +12,6 @@
 
 ### Languages and Tools:
 <img align="left" alt="html" width="24px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
-<img align="left" alt="html" width="24px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
-<img align="left" alt="html" width="24px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
+<img align="left" alt="html" width="22px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
+<img align="left" alt="html" width="22px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
 

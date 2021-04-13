@@ -1,4 +1,4 @@
-### Hi there, I'm <font color="red">Mahabub Sany</font> 👋
+### Hi there, I'm Mahabub Sany 👋
 
 ## I'm a Passionate Web Developer 
 

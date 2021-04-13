@@ -12,6 +12,9 @@
 
 ### Languages and Tools:
 <img align="left" alt="html" width="24px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
-<img align="left" alt="html" width="22px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
-<img align="left" alt="html" width="22px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
+<img align="left" alt="html" width="20px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
+<img align="left" alt="html" width="20px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
+<img align="left" alt="html" width="24px" title="JavaScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/javascript.svg"/>
+<img align="left" alt="html" width="24px" title="ReactJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/react-1.svg"/>
+<img align="left" alt="html" width="24px" title="ExpressJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg"/>
 

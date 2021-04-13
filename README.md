@@ -1,4 +1,4 @@
-### Hi there, I'm <span style="color: #1589F0">Mahabub Sany</span> 👋
+### Hi there, I'm <font color="red">Mahabub Sany</font> 👋
 
 ## I'm a Passionate Web Developer 
 

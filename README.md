@@ -1,12 +1,12 @@
-### Hi there, I'm Mahabub Sany 👋
+### Hi there, I'm <span style="color: #1589F0">Mahabub Sany</span> 👋
 
 ## I'm a Passionate Web Developer 
 
-- 👩‍💻 I'm currently working on my React projects 
-- 💻 I'm learning MERN stack
-- 🚧 2020 Goal: Become a Full-stack Web Developer
+- 👩‍💻 I'm currently working on something cool! 
+- 💻 I'm learning MERN Stack
+- 🚧 2020 Goal: Become a Full-Stack Web Developer
 
-### Connect with me:
+### Get in Touch:
 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabub.sunny.904) 
 

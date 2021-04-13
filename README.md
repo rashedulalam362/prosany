@@ -11,4 +11,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabub.sunny.904) 
 
 ### Languages and Tools:
+<img align="left" alt="html" width="24px" title="Visual Studio Code" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg"/>
 <img align="left" alt="html" width="24px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
+<img align="left" alt="html" width="24px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
+

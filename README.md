@@ -1,4 +1,4 @@
-### Hi there, I'm [!#1589F0[Mahabub Sany]](https://github.com/prosany) 👋
+### Hi there, I'm [Mahabub Sany](https://github.com/prosany) 👋
 
 ## I'm a Passionate Web Developer 
 

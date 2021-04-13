@@ -45,6 +45,9 @@
     <img align="left" alt="html" width="25px" title="Netlify" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/netlify.svg"/>
 </a>
 <a href="https://github.com/prosany">
+    <img align="left" alt="html" width="25px" title="Heroku" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/heroku.svg"/>
+</a>
+<a href="https://github.com/prosany">
     <img align="left" alt="html" width="25px" title="Git" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/git.svg"/>
 </a>
 <a href="https://github.com/prosany">

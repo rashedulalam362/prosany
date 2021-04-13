@@ -15,10 +15,14 @@
 <img align="left" alt="html" width="17px" title="HTML5" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/html5.svg"/>
 <img align="left" alt="html" width="17px" title="CSS3" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg"/>
 <img align="left" alt="html" width="22px" title="JavaScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/javascript.svg"/>
+<img align="left" alt="html" width="22px" title="TypeScript" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/typescript.svg"/>
 <img align="left" alt="html" width="22px" title="ReactJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/react-2.svg"/>
-<img align="left" alt="html" width="24px" title="ExpressJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nodejs.svg"/>
-<img align="left" alt="html" width="22px" title="ExpressJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
-<img align="left" alt="html" width="36px" title="ExpressJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg"/>
-<img align="left" alt="html" width="24px" title="ExpressJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/firebase.svg"/>
-<img align="left" alt="html" width="24px" title="ExpressJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/netlify.svg"/>
+<img align="left" alt="html" width="34px" title="NodeJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nodejs.svg"/>
+<img align="left" alt="html" width="24px" title="MongoDB" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
+<img align="left" alt="html" width="40px" title="ExpressJS" src="https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg" style="max-width:100%;" height="30px">
+<img align="left" alt="html" width="18px" title="Firebase" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/firebase.svg"/>
+<img align="left" alt="html" width="25px" title="Netlify" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/netlify.svg"/>
+<img align="left" alt="html" width="25px" title="Git" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/git.svg"/>
+<img align="left" alt="html" width="25px" title="Github" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/github.svg"/>
+<img align="left" alt="html" width="25px" title="jQuery" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/jquery.svg"/>
 

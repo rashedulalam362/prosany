@@ -25,4 +25,4 @@
 <img align="left" alt="html" width="25px" title="Git" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/git.svg"/>
 <img align="left" alt="html" width="25px" title="Github" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/github.svg"/>
 <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/wordpress.svg"/>
-<img align="left" alt="html" width="25px" title="CPanel" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg"/>
+<img align="left" alt="html" width="35px" title="CPanel" src="https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg" style="max-width:100%;" height="25px">

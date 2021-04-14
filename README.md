@@ -62,9 +62,10 @@
 <a href="https://github.com/prosany">
    <img align="left" alt="html" width="35px" title="CPanel" src="https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg" style="max-width:100%;" height="25px">
 </a>
-<br />
-<br />
-<br />
+
+
+### Github Stats
 <img width="400px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
 
+### Most Used Languages
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&card_width=400)](https://github.com/prosany)

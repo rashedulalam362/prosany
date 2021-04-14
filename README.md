@@ -5,6 +5,7 @@
 - 👩‍💻 I'm currently working on something cool! 
 - 💻 I'm learning MERN Stack
 - 🚧 2020 Goal: Become a Full-Stack Web Developer
+- 📚 2021 Goal: Contribute something cool to Open Source projects.
 - 🗯 Ask me about ReactJS, MERN Stack. I am Happy to Help!
 - 📫 How to reach me: mahabubsany1@gmail.com
 

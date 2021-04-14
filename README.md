@@ -65,6 +65,6 @@
 <br />
 <br />
 <br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
+<img width="400px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&card_width=550)](https://github.com/prosany)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&card_width=400)](https://github.com/prosany)

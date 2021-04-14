@@ -5,6 +5,8 @@
 - 👩‍💻 I'm currently working on something cool! 
 - 💻 I'm learning MERN Stack
 - 🚧 2020 Goal: Become a Full-Stack Web Developer
+- 🗯 Ask me about ReactJS, MERN Stack. I am Happy to Help!
+- 📫 How To
 
 ### Get in Touch:
 

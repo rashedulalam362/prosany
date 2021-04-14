@@ -1,4 +1,4 @@
-### Hi there, I'm [Mahabub Sany](https://github.com/prosany) 👋
+### Hi there, I'm [Mahabub Sany][sany_github] 👋
 
 ## I'm a Passionate Web Developer 
 
@@ -70,3 +70,7 @@
 
 ### Most Used Languages
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&card_width=400)](https://github.com/prosany)
+
+
+
+[sany_github]: https://github.com/prosany

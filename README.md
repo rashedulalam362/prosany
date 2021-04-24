@@ -4,9 +4,9 @@
 
 - 👩‍💻 I'm currently working on something cool! 
 - 💻 I'm learning MERN Stack
-- 🚧 2020 Goal: Become a Full-Stack Web Developer
-- 📚 2021 Goal: Contribute something cool to Open Source projects.
-- 🗯 Ask me about ReactJS, MERN Stack. I am Happy to Help!
+- 🚧 2021 Goal: Become a Full-Stack Web Developer
+- 📚 2022 Goal: Contribute something cool to Open Source projects.
+- 🗯 Ask me about ReactJS, MERN Stack & WordPress. I am Happy to Help!
 - 📫 How to reach me: mahabubsany1@gmail.com
 
 ### Get in Touch:
@@ -36,7 +36,7 @@
     <img align="left" alt="html" width="34px" title="NodeJS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nodejs.svg"/>
 </a>
 <a href="https://github.com/prosany">
-    <img align="left" alt="html" width="24px" title="MongoDB" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
+    <img align="left" alt="html" width="24px" title="MongoDB" style="max-width:100%;" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
 </a>
 <a href="https://github.com/prosany">
     <img align="left" alt="html" width="40px" title="ExpressJS" src="https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg" style="max-width:100%;" height="30px">

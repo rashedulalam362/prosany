@@ -38,8 +38,8 @@
 <a href="https://github.com/prosany">
     <img align="left" alt="html" width="24px" title="MongoDB" style="max-width:100%;" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/mongodb.svg"/>
 </a>
-<a href="https://github.com/prosany">
-    <img align="left" alt="html" width="40px" title="ExpressJS" src="https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg" style="max-width:100%;" height="30px">
+<a href="https://github.com/prosany" style="display: inline-block">
+    <img align="left" alt="html" width="40px" title="ExpressJS" src="https://raw.githubusercontent.com/prosany/prosany/main/images/express.svg" height="30px">
 </a>
 <a href="https://github.com/prosany">
     <img align="left" alt="html" width="18px" title="Firebase" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/firebase.svg"/>

@@ -72,5 +72,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prosany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [sany_github]: https://github.com/prosany

@@ -70,7 +70,6 @@
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&card_width=400)](https://github.com/prosany)
 
 
 

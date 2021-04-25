@@ -68,7 +68,7 @@
 <br />
 <img width="400px" alt="Mahabub Sany Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
 
-### Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
 
 

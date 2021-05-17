@@ -10,7 +10,6 @@
 - 📫 How to reach me: mahabubsany1@gmail.com
 
 ### Get in Touch:
-
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabub.sunny.904)
 
 ### Languages and Tools:
